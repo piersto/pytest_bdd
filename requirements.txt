@@ -1,0 +1,12 @@
+pytest
+pytest-bdd
+selenium
+jsonpickle
+pony
+pymysql
+mysql-connector-python-rf
+lxml
+pytest-allure-adaptor
+robotframework
+pymongo
+
